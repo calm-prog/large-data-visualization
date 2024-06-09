@@ -1,4 +1,4 @@
-import { type ResponseData } from '../../src/App'
+import { ResponseData } from '../../src/client'
 
 const generateApiData = (): ResponseData => {
   const startTime = Date.now()
