@@ -48,7 +48,7 @@ You can inspect the mocked API using a browser, curl, Postman, or any other HTTP
 Example using curl:
 
 ```bash
-curl http://localhost:3000/api/data
+curl http://localhost:3100/api/data
 ```
 
 ## Features to add
